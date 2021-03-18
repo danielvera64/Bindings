@@ -1,4 +1,4 @@
-import Combine
+import CombineX
 
 public final class BindingSink<Owner: BindingOwner, Input> {
   public typealias Failure = Never

@@ -1,4 +1,4 @@
-import Combine
+import CombineX
 
 infix operator <~: DefaultPrecedence
 

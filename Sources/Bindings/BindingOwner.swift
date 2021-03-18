@@ -1,4 +1,4 @@
-import Combine
+import CombineX
 import Foundation
 
 private var bindingOwnerSubscriptionsKey: UInt8 = 0
